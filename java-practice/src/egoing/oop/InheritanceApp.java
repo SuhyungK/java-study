@@ -1,4 +1,4 @@
-package egoing.inheritance;
+package egoing.oop;
 
 class Cal {
     public int sum(int v1, int v2) {
