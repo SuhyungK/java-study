@@ -31,7 +31,7 @@ class Point3D extends Point{
     }
 }
 
-public class ch7_overriding {
+public class OverrideTest {
     public static void main(String[] args) {
         Point point = new Point(10, 30);
         Point3D point3d = new Point3D(20, 40, 50);

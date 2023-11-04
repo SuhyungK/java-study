@@ -2,7 +2,7 @@ package 자바의정석;
 
 import java.util.Arrays;
 
-public class ch7_DeckTest {
+public class DeckTest {
     public static void main(String[] args) {
         Deck deck = new Deck();
         Card c = deck.pick();
