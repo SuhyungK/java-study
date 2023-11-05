@@ -1,12 +1,20 @@
 package 자바의정석;
 
 class Point {
-    int x = 10;
-    int y = 15;
+    int x;
+    int y;
 
     Point(int x, int y) {
         this.x = x;
         this.y = y;
+    }
+
+    @Override
+    public String toString() {
+        return "Point{" +
+                "x=" + x +
+                ", y=" + y +
+                '}';
     }
 
     static long add(long a, long b) {

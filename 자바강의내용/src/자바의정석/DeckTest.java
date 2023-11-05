@@ -18,6 +18,9 @@ public class DeckTest {
         c = deck.pick();
 //        System.out.println(c);
 //        System.out.println(c.toString());
+
+        Card c1 = new Card(3, 3);
+
     }
 }
 
