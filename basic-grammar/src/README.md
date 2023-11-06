@@ -1,3 +1,5 @@
+## 자바 기본 문법
+
 <table>
     <tr>
         <th rowspan="2">문법</th>
@@ -9,8 +11,8 @@
     </tr>
     <tr>
         <td rowspan="1">HashMap</td>
-        <td>PGM 귤 고르기</td>
-        <td><a href=""✅</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">PGM 귤 고르기</a></td>
+        <td><a href="/코드/Lv2_귤고르기.java">✅</a></td>
     </tr>
     <tr>
         <td rowspan="3">StringBuilder</td>
