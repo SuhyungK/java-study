@@ -1,4 +1,4 @@
-package 코드;
+package HashMap;
 
 import java.util.*;
 

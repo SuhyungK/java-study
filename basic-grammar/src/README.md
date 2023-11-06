@@ -12,16 +12,11 @@
     <tr>
         <td rowspan="1">HashMap</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">PGM 귤 고르기</a></td>
-        <td><a href="./코드/Lv2_귤고르기.java">✅</a></td>
+        <td><a href="./HashMap/Lv2_귤고르기.java">✅</a></td>
     </tr>
     <tr>
-        <td rowspan="3">StringBuilder</td>
+        <td>StringBuilder</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/181915">PGM 글자 이어 붙여 문자열 만들기</a></td>
-    </tr>
-    <tr>
-        <td>내용</td>
-    </tr>
-    <tr>
-        <td>내용</td>
+        <td><a href="./StringBuilder/Lv0_글자이어붙여문자열만들기.java">✅</a></td>
     </tr>
 </table>
