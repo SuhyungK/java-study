@@ -1,0 +1,25 @@
+<table>
+    <tr>
+        <th rowspan="2">문법</th>
+        <th colspan="2">문제 풀이</th>
+    </tr>
+    <tr>
+        <th>문제</th>
+        <th>풀이</th>
+    </tr>
+    <tr>
+        <td rowspan="1">HashMap</td>
+        <td>PGM 귤 고르기</td>
+        <td><a href=""✅</td>
+    </tr>
+    <tr>
+        <td rowspan="3">StringBuilder</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/181915">PGM 글자 이어 붙여 문자열 만들기</a></td>
+    </tr>
+    <tr>
+        <td>내용</td>
+    </tr>
+    <tr>
+        <td>내용</td>
+    </tr>
+</table>
