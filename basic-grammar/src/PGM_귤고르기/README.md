@@ -47,7 +47,7 @@
 ### 코드
 
 ```java
-package 귤고르기;
+package PGM_귤고르기;
 
 import java.util.*;
 
