@@ -1,4 +1,4 @@
-package PGM_귤고르기;
+package HashMap;
 
 import java.util.*;
 
