@@ -12,7 +12,11 @@
     <tr>
         <td rowspan="1">HashMap</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">PGM 귤 고르기</a></td>
+<<<<<<< HEAD
         <td><a href="./코드/Lv2_귤고르기.java">✅</a></td>
+=======
+        <td><a href="/코드/Lv2_귤고르기.java">✅</a></td>
+>>>>>>> 9d742fc7c1a90073eac511aaf526f2310c6f6b9e
     </tr>
     <tr>
         <td rowspan="3">StringBuilder</td>
